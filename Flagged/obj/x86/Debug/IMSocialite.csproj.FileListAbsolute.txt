@@ -1,0 +1,13 @@
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\MainWindow.baml
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\MainWindow.g.cs
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\App.g.cs
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\rajan\documents\visual studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Debug\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Debug\Flagged.pdb
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged_MarkupCompile.cache
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.g.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.Properties.Resources.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.pdb

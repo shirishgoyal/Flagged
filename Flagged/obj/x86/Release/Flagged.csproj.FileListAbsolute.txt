@@ -1,0 +1,30 @@
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Release\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Release\Flagged.pdb
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\MainWindow.baml
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Dashboard.baml
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\MainWindow.g.cs
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Dashboard.g.cs
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\App.g.cs
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Flagged_MarkupCompile.cache
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Flagged.g.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Flagged.Properties.Resources.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Release\Flagged.pdb
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Flagged.exe
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Flagged.pdb
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\bin\Release\Flagged.exe
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\bin\Release\Flagged.pdb
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\MainWindow.baml
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Dashboard.baml
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\MainWindow.g.cs
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Dashboard.g.cs
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\App.g.cs
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Flagged_MarkupCompile.cache
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Flagged.g.resources
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\Flagged.Properties.Resources.resources
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Users\Shirish Goyal\Desktop\IMSocialite\IMSocialite\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,30 @@
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Debug\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\bin\Debug\Flagged.pdb
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\MainWindow.baml
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\App.g.cs
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged_MarkupCompile.cache
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.g.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.Properties.Resources.resources
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.exe
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Flagged.pdb
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Dashboard.baml
+C:\Users\Rajan\Documents\Visual Studio 2010\Projects\IMSocialite\IMSocialite\obj\x86\Debug\Dashboard.g.cs
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Flagged.exe
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Flagged.pdb
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\bin\Debug\Flagged.exe
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\bin\Debug\Flagged.pdb
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\MainWindow.baml
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Dashboard.baml
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\MainWindow.g.cs
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Dashboard.g.cs
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\App.g.cs
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Flagged_MarkupCompile.cache
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Flagged.g.resources
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\Flagged.Properties.Resources.resources
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Users\Shirish Goyal\Desktop\Projects\Flagged\Flagged\obj\x86\Debug\GenerateResource.write.1.tlog
